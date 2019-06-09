@@ -1,0 +1,81 @@
+[{
+    "id": 1,
+    "type": "scooter",
+    "status": "free",
+    "battery": "55",
+    "lat": "45.246249",
+    "long": "19.850755"
+  },
+  {
+    "id": 2,
+    "type": "bike",
+    "status": "free",
+    "battery": "100",
+    "lat": "45.246347",
+    "long": "19.849327"
+  },
+  {
+    "id": 3,
+    "type": "scooter",
+    "status": "free",
+    "battery": "64",
+    "lat": "45.248447",
+    "long": "19.849016"
+  },
+  {
+    "id": 4,
+    "type": "bike",
+    "status": "free",
+    "battery": "81",
+    "lat": "45.248605",
+    "long": "19.852020"
+  },
+  {
+    "id": 5,
+    "type": "scooter",
+    "status": "free",
+    "battery": "42",
+    "lat": "45.245517",
+    "long": "19.847128"
+  },
+  {
+    "id": 6,
+    "type": "bike",
+    "status": "free",
+    "battery": "100",
+    "lat": "45.246801",
+    "long": "19.846935"
+  },
+  {
+    "id": 7,
+    "type": "bike",
+    "status": "free",
+    "battery": "100",
+    "lat": "45.242398,",
+    "long": "19.846526"
+  },
+  {
+    "id": 8,
+    "type": "scooter",
+    "status": "free",
+    "battery": "55",
+    "lat": "45.241960",
+    "long": "19.847631"
+  },
+  {
+    "id": 9,
+    "type": "scooter",
+    "status": "free",
+    "battery": "71",
+    "lat": "45.249078",
+    "long": "19.843474"
+  },
+  {
+    "id": 10,
+    "type": "scooter",
+    "status": "free",
+    "battery": "55",
+    "lat": "45.248156",
+    "long": "19.840159"
+  }
+]
